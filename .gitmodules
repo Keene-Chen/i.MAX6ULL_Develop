@@ -1,0 +1,6 @@
+[submodule "linux_dirver_dev"]
+	path = linux_dirver_dev
+	url = https://github.com/Keene-Chen/linux_dirver_dev
+[submodule "bare_metal_dev"]
+	path = bare_metal_dev
+	url = https://github.com/Keene-Chen/bare_metal_dev
